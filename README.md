@@ -1,1 +1,1 @@
-# Haskell_LeaderBoard
+# Haskell-Individual-Project
